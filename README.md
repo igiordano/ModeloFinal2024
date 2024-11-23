@@ -1,6 +1,4 @@
 # ModeloFinal2024
-# Proyecto_CFL_UIOTEC
-
 
 modelo de proyecto final
 se desarrrollo una aplicación web de autopartes programada en Python en Django. Esta web tendrá admin, perfiles, registro, páginas y formularios.
